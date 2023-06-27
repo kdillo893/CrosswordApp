@@ -1,8 +1,5 @@
-!! ABANDONED, Just using Alphacross on android and any number of programs on desktop (no need to reinvent the wheel) !!
+# CrosswordApp
 
-# CrosswordMobileApp
-Eventual attempt to create a mobile app that loads 
-files of .puz or other formats for playing
 
 ### What I'm planning on doing?
 
