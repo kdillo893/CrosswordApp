@@ -37,3 +37,4 @@ One could potentially take a simple webpage layout of a grid and
 listed hints to generate a board for an application. This would 
 probably go beyond the current scope of my knowledge, so I'm not
 gonna bother right now.
+
