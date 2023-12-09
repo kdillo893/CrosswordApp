@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+table {
+  border: solid;
+  border-spacing: 0px;
+}
+
+tr {
+  border: solid 1px 0;
+}
+
+td {
+  border: solid 1px;
+  text-align: center;
+  height: 3ch;
+  width: 3ch;
+}
